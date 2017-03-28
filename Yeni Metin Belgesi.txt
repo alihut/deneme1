@@ -1,0 +1,18 @@
+muhammed.yildirim
+
+30152337532
+
+com.android.support:appcompat-v7:21.0.3
+
+
+com.android.support:appcompat-v7:25.2.0
+
+1:57:10 - 2:02:23
+2:07:54 - 2:09:54 
+2:17:03 - 2:20:05 
+
+android.support.design.widget.CoordinatorLayout
+
+nuget.exe config -set http_proxy=http://10.1.95.34:8080
+    nuget.exe config -set http_proxy.user=mydomain\myUserName
+    nuget.exe config -set http_proxy.password=mySuperSecretPassword
